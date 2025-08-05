@@ -1,2 +1,3 @@
 # AulasReactVs16
-repositório de aula
+
+Repositório de base para códigos iniciais  Vem Ser 16
